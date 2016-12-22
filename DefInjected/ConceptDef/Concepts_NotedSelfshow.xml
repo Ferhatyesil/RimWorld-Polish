@@ -90,7 +90,7 @@
 
     	<FirePreparation.label>ochrona przeciwpożarowa</FirePreparation.label>
     	<FirePreparation.helpText>Pożar może łatwo spalić kolonię. Aby z nim walczyć, musisz się na niego przygotować jeszcze przed jego powstaniem. 
-    		\nTe elementy mogą pomóc zmniejszyć zniszczenia powodowane przez pożary:
+    		\n   Elementy mogą pomóc zmniejszyć zniszczenia powodowane przez pożary:
 		\n1. Zamiast budować jeden duży budynek, spróbuj zbudować kilka osobnych z dużymi przestrzeniami pomiędzy nimi.
 		\n2. Używaj mniej palne materiały. Drewno jest tanie i szybkie - ale szybko się pali.
 		\n3. Stwórz ścieżki, aby ogień nie wdarł się do twojej bazy. Powinna wystarczyć betonowa dróżka o szerokości 3 lub 4 komórek.</FirePreparation.helpText>
